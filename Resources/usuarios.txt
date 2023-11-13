@@ -1,0 +1,2 @@
+user:123:adm
+luna:1234:emp
